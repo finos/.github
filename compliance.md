@@ -5,6 +5,7 @@
  - [Compliant Financial Infrastructure](#Compliant-Financial-Infrastructure)
  - [Open Reg Tech US LCR](#Open-Reg-Tech-US-LCR)
  - [Regulation Innovation Special Interest Group](#Regulation-Innovation-Special-Interest-Group)
+<a name="Common-Cloud-Controls"></a>
 ## Common Cloud Controls
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ccc.svg" width="100px" />
@@ -41,6 +42,7 @@ _FINOS Common Cloud Controls_
 #### Further Details
  - [https://github.com/finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
  - [https://ccc.finos.org](https://ccc.finos.org)
+<a name="Compliant-Financial-Infrastructure"></a>
 ## Compliant Financial Infrastructure
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/compliant-financial-infrastruture.svg" width="100px" />
@@ -84,6 +86,7 @@ _Compliant Financial Infrastructure accelerates the development, deployment and 
  - [https://github.com/finos/terraform-aws-cfi-redshift](https://github.com/finos/terraform-aws-cfi-redshift)
  - [https://github.com/finos/terraform-aws-cfi-sqs](https://github.com/finos/terraform-aws-cfi-sqs)
  - [https://github.com/finos/cfi-ansible-aws-rds](https://github.com/finos/cfi-ansible-aws-rds)
+<a name="Open-Reg-Tech-US-LCR"></a>
 ## Open Reg Tech US LCR
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/open-reg-tech-us-lcr.svg" width="100px" />
@@ -108,6 +111,7 @@ _Open Reg Tech: US LCR_
 #### Further Details
  - [https://github.com/finos/open-reg-tech-us-lcr](https://github.com/finos/open-reg-tech-us-lcr)
  - [https://github.com/finos/open-reg-tech-us-lcr](https://github.com/finos/open-reg-tech-us-lcr)
+<a name="FINOS-Regulation-Innovation-Special-Interest-Group"></a>
 ## FINOS Regulation Innovation Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/regulation-innovation.svg" width="100px" />

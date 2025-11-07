@@ -9,6 +9,7 @@
  - [Symphony Electron](#Symphony-Electron)
  - [Symphony Generator](#Symphony-Generator)
  - [Symphony Media Bridge](#Symphony-Media-Bridge)
+<a name="MessageML-Utilities"></a>
 ## MessageML Utilities
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/messageml-utils.svg" width="100px" />
@@ -41,6 +42,7 @@ _MessageML is a markup language used by the Symphony Agent API for representing 
 #### Further Details
  - [https://github.com/finos/messageml-utils](https://github.com/finos/messageml-utils)
  - [https://docs.developers.symphony.com](https://docs.developers.symphony.com)
+<a name="symphony-api-spec"></a>
 ## symphony-api-spec
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-rest-api-spec.svg" width="100px" />
@@ -68,6 +70,7 @@ _Swagger definitions for Symphony LLC public REST API_
 #### Further Details
  - [https://github.com/finos/symphony-api-spec](https://github.com/finos/symphony-api-spec)
  - [https://github.com/finos/symphony-api-spec](https://github.com/finos/symphony-api-spec)
+<a name="Spring-Bot"></a>
 ## Spring Bot
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/springbot.svg" width="100px" />
@@ -102,6 +105,7 @@ _Spring Boot + Java Integration for Symphony/Teams Chat Platform Bots and Apps_
 #### Further Details
  - [https://github.com/finos/spring-bot](https://github.com/finos/spring-bot)
  - [https://springbot.finos.org](https://springbot.finos.org)
+<a name="Symphony-BDK-for-Java"></a>
 ## Symphony BDK for Java
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-java.svg" width="100px" />
@@ -132,6 +136,7 @@ _The Symphony BDK (Bot Developer Kit) for Java helps you to create production-gr
 #### Further Details
  - [https://github.com/finos/symphony-bdk-java](https://github.com/finos/symphony-bdk-java)
  - [https://symphony-bdk-java.finos.org](https://symphony-bdk-java.finos.org)
+<a name="Symphony-BDK-for-Python"></a>
 ## Symphony BDK for Python
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-python.svg" width="100px" />
@@ -160,6 +165,7 @@ _Symphony Python Bot Development Kit (BDK)_
 #### Further Details
  - [https://github.com/finos/symphony-bdk-python](https://github.com/finos/symphony-bdk-python)
  - [https://symphony-bdk-python.finos.org/](https://symphony-bdk-python.finos.org/)
+<a name="SymphonyElectron"></a>
 ## SymphonyElectron
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-electron.svg" width="100px" />
@@ -198,6 +204,7 @@ _A desktop client for the Symphony Collaboration Platform built using Electron_
  - [https://github.com/finos/SwiftSearch](https://github.com/finos/SwiftSearch)
  - [https://github.com/finos/ScreenShareIndicatorFrame](https://github.com/finos/ScreenShareIndicatorFrame)
  - [https://github.com/finos/SymphonyWindowsHwndHelper](https://github.com/finos/SymphonyWindowsHwndHelper)
+<a name="Symphony-Generator"></a>
 ## Symphony Generator
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-generator.svg" width="100px" />
@@ -225,6 +232,7 @@ _Yeoman based generator for Symphony Bots and Applications_
 #### Further Details
  - [https://github.com/finos/generator-symphony](https://github.com/finos/generator-symphony)
  - [https://github.com/finos/generator-symphony](https://github.com/finos/generator-symphony)
+<a name="Symphony-Media-Bridge"></a>
 ## Symphony Media Bridge
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-media-bridge.svg" width="100px" />

@@ -7,6 +7,7 @@
  - [Regular Table](#Regular-Table)
  - [Symphony Electron](#Symphony-Electron)
  - [VUU](#VUU)
+<a name="Accessibility-Theme-Builder"></a>
 ## Accessibility Theme Builder
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/themebuilder.svg" width="100px" />
@@ -38,6 +39,7 @@ _DesignOps toolchain theme builder for accessibility inclusion using Atomic Desi
 #### Further Details
  - [https://github.com/finos/a11y-theme-builder](https://github.com/finos/a11y-theme-builder)
  - [https://github.com/finos/a11y-theme-builder-sdk](https://github.com/finos/a11y-theme-builder-sdk)
+<a name="JupyterLab-Templates"></a>
 ## JupyterLab Templates
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/jupyterlab-templates.svg" width="100px" />
@@ -65,6 +67,7 @@ _Support for jupyter notebook templates in jupyterlab_
 > 
 #### Further Details
  - [https://github.com/finos/jupyterlab_templates](https://github.com/finos/jupyterlab_templates)
+<a name="Perspective"></a>
 ## Perspective
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/perspective.svg" width="100px" />
@@ -107,6 +110,7 @@ interactive analytics and data visualization component,
 #### Further Details
  - [https://github.com/perspective-dev/perspective](https://github.com/perspective-dev/perspective)
  - [http://perspective-dev.github.io/](http://perspective-dev.github.io/)
+<a name="Regular-Table"></a>
 ## Regular Table
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/regular-table.svg" width="100px" />
@@ -146,6 +150,7 @@ _A regular <table> library, for async and virtual data models._
 > 
 #### Further Details
  - [https://github.com/finos/regular-table](https://github.com/finos/regular-table)
+<a name="SymphonyElectron"></a>
 ## SymphonyElectron
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-electron.svg" width="100px" />
@@ -184,6 +189,7 @@ _A desktop client for the Symphony Collaboration Platform built using Electron_
  - [https://github.com/finos/SwiftSearch](https://github.com/finos/SwiftSearch)
  - [https://github.com/finos/ScreenShareIndicatorFrame](https://github.com/finos/ScreenShareIndicatorFrame)
  - [https://github.com/finos/SymphonyWindowsHwndHelper](https://github.com/finos/SymphonyWindowsHwndHelper)
+<a name="Vuu"></a>
 ## Vuu
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/vuu.svg" width="100px" />

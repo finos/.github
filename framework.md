@@ -14,6 +14,7 @@
  - [Symphony BDK Python](#Symphony-BDK-Python)
  - [TRAC d.a.p.](#TRAC-d.a.p.)
  - [TraderX](#TraderX)
+<a name="Backplane---FDC3-Desktop-Agent-Bridging"></a>
 ## Backplane   FDC3 Desktop Agent Bridging
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/backplane.svg" width="100px" />
@@ -45,6 +46,7 @@ _FDC3 Desktop Agent Bridge_
 #### Further Details
  - [https://github.com/finos/backplane](https://github.com/finos/backplane)
  - [https://backplane.finos.org/](https://backplane.finos.org/)
+<a name="FDC3---Financial-Desktop-Connectivity-and-Collaboration-Consortium"></a>
 ## FDC3 - Financial Desktop Connectivity and Collaboration Consortium
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3.svg" width="100px" />
@@ -89,6 +91,7 @@ _An open standard for the financial desktop._
  - [https://github.com/finos/FDC3](https://github.com/finos/FDC3)
  - [https://fdc3.finos.org](https://fdc3.finos.org)
  - [https://github.com/finos/fdc3-dotnet](https://github.com/finos/fdc3-dotnet)
+<a name="FDC3-Conformance-Framework"></a>
 ## FDC3 Conformance Framework
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3-conformance.svg" width="100px" />
@@ -112,6 +115,7 @@ _A framework for testing whether desktop containers implement the FDC3 standard_
 > 
 #### Further Details
  - [https://github.com/finos/FDC3-conformance-framework](https://github.com/finos/FDC3-conformance-framework)
+<a name="FDC3-Sail"></a>
 ## FDC3 Sail
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/sail.svg" width="100px" />
@@ -143,6 +147,7 @@ _Open implementation of the FDC3 standard using Electron and an integrated App D
 
 #### Further Details
  - [https://github.com/finos/FDC3-Sail](https://github.com/finos/FDC3-Sail)
+<a name="JupyterLab-Templates"></a>
 ## JupyterLab Templates
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/jupyterlab-templates.svg" width="100px" />
@@ -170,6 +175,7 @@ _Support for jupyter notebook templates in jupyterlab_
 > 
 #### Further Details
  - [https://github.com/finos/jupyterlab_templates](https://github.com/finos/jupyterlab_templates)
+<a name="Legend"></a>
 ## Legend
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/legend.svg" width="100px" />
@@ -217,6 +223,7 @@ _The Legend project_
  - [https://github.com/finos/legend-juju-studio-operator](https://github.com/finos/legend-juju-studio-operator)
  - [https://github.com/finos/legend-community-delta](https://github.com/finos/legend-community-delta)
  - [https://github.com/finos/pylegend](https://github.com/finos/pylegend)
+<a name="Morphir"></a>
 ## Morphir
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/morphir.svg" width="100px" />
@@ -257,6 +264,7 @@ _A universal language for business and technology_
  - [https://github.com/finos/morphir-bosque](https://github.com/finos/morphir-bosque)
  - [https://github.com/finos/morphir-examples](https://github.com/finos/morphir-examples)
  - [https://github.com/finos/morphir-scala](https://github.com/finos/morphir-scala)
+<a name="Perspective"></a>
 ## Perspective
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/perspective.svg" width="100px" />
@@ -299,6 +307,7 @@ interactive analytics and data visualization component,
 #### Further Details
  - [https://github.com/perspective-dev/perspective](https://github.com/perspective-dev/perspective)
  - [http://perspective-dev.github.io/](http://perspective-dev.github.io/)
+<a name="symphony-api-spec"></a>
 ## symphony-api-spec
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-rest-api-spec.svg" width="100px" />
@@ -326,6 +335,7 @@ _Swagger definitions for Symphony LLC public REST API_
 #### Further Details
  - [https://github.com/finos/symphony-api-spec](https://github.com/finos/symphony-api-spec)
  - [https://github.com/finos/symphony-api-spec](https://github.com/finos/symphony-api-spec)
+<a name="Symphony-BDK-for-Java"></a>
 ## Symphony BDK for Java
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-java.svg" width="100px" />
@@ -356,6 +366,7 @@ _The Symphony BDK (Bot Developer Kit) for Java helps you to create production-gr
 #### Further Details
  - [https://github.com/finos/symphony-bdk-java](https://github.com/finos/symphony-bdk-java)
  - [https://symphony-bdk-java.finos.org](https://symphony-bdk-java.finos.org)
+<a name="Symphony-BDK-for-Python"></a>
 ## Symphony BDK for Python
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-python.svg" width="100px" />
@@ -384,6 +395,7 @@ _Symphony Python Bot Development Kit (BDK)_
 #### Further Details
  - [https://github.com/finos/symphony-bdk-python](https://github.com/finos/symphony-bdk-python)
  - [https://symphony-bdk-python.finos.org/](https://symphony-bdk-python.finos.org/)
+<a name="TRAC-D.a.p."></a>
 ## TRAC D.a.p.
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/tracdap.svg" width="100px" />
@@ -408,11 +420,12 @@ _A next-generation data and analytics platform for use in highly regulated envir
 > 
 #### Further Details
  - [https://github.com/finos/tracdap](https://github.com/finos/tracdap)
+<a name="TraderX"></a>
 ## TraderX
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/traderx.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-87-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-104-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-26-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-87-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-105-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-26-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/traderX/issues)
 
 [![Topic: finos-hackathon-bmo](https://img.shields.io/badge/finos%20hackathon%20bmo-fafbfc)](https://github.com/topics/finos-hackathon-bmo) 
 

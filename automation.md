@@ -6,6 +6,7 @@
  - [FINOS Code Scanning](#FINOS-Code-Scanning)
  - [Git Proxy](#Git-Proxy)
  - [Symphony Generator](#Symphony-Generator)
+<a name="Architecture-as-Code"></a>
 ## Architecture as Code
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
@@ -45,6 +46,7 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 #### Further Details
  - [https://github.com/finos/architecture-as-code](https://github.com/finos/architecture-as-code)
  - [https://calm.finos.org](https://calm.finos.org)
+<a name="DevOps-Automation-Special-Interest-Group"></a>
 ## DevOps Automation Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/devops-automation.svg" width="100px" />
@@ -80,6 +82,7 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
  - [https://github.com/finos/devops-automation](https://github.com/finos/devops-automation)
  - [http://devops.finos.org](http://devops.finos.org)
  - [https://github.com/finos/architecture-as-code](https://github.com/finos/architecture-as-code)
+<a name="FINOS-Code-Scanning"></a>
 ## FINOS Code Scanning
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/finos-code-scanning.svg" width="100px" />
@@ -129,6 +132,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 > 
 #### Further Details
  - [https://github.com/finos/code-scanning](https://github.com/finos/code-scanning)
+<a name="Git-Proxy"></a>
 ## Git Proxy
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/git-proxy.svg" width="100px" />
@@ -168,6 +172,7 @@ _Deploy custom push protections and policies on top of Git_
 #### Further Details
  - [https://github.com/finos/git-proxy](https://github.com/finos/git-proxy)
  - [https://git-proxy.finos.org](https://git-proxy.finos.org)
+<a name="Symphony-Generator"></a>
 ## Symphony Generator
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-generator.svg" width="100px" />

@@ -3,6 +3,7 @@
 # reference-data
  - [Currency Reference Data](#Currency-Reference-Data)
  - [Security Reference Data](#Security-Reference-Data)
+<a name="Currency-Reference-Data"></a>
 ## Currency Reference Data
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/currency-reference-data.svg" width="100px" />
@@ -14,6 +15,7 @@
 #### Further Details
  - [https://github.com/finos/curref-data](https://github.com/finos/curref-data)
  - [https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata](https://gitlab.com/finosfoundation/legend/security-reference-data/currencyrefdata)
+<a name="Securities-Reference-Data-Project"></a>
 ## Securities Reference Data Project
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/security-reference-data.svg" width="100px" />

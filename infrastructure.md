@@ -8,6 +8,7 @@
  - [FINOS Code Scanning](#FINOS-Code-Scanning)
  - [High Throughput Compute Grid](#High-Throughput-Compute-Grid)
  - [Waltz](#Waltz)
+<a name="Architecture-as-Code"></a>
 ## Architecture as Code
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
@@ -47,6 +48,7 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 #### Further Details
  - [https://github.com/finos/architecture-as-code](https://github.com/finos/architecture-as-code)
  - [https://calm.finos.org](https://calm.finos.org)
+<a name="Common-Cloud-Controls"></a>
 ## Common Cloud Controls
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ccc.svg" width="100px" />
@@ -83,6 +85,7 @@ _FINOS Common Cloud Controls_
 #### Further Details
  - [https://github.com/finos/common-cloud-controls](https://github.com/finos/common-cloud-controls)
  - [https://ccc.finos.org](https://ccc.finos.org)
+<a name="Compliant-Financial-Infrastructure"></a>
 ## Compliant Financial Infrastructure
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/compliant-financial-infrastruture.svg" width="100px" />
@@ -126,6 +129,7 @@ _Compliant Financial Infrastructure accelerates the development, deployment and 
  - [https://github.com/finos/terraform-aws-cfi-redshift](https://github.com/finos/terraform-aws-cfi-redshift)
  - [https://github.com/finos/terraform-aws-cfi-sqs](https://github.com/finos/terraform-aws-cfi-sqs)
  - [https://github.com/finos/cfi-ansible-aws-rds](https://github.com/finos/cfi-ansible-aws-rds)
+<a name="DevOps-Automation-Special-Interest-Group"></a>
 ## DevOps Automation Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/devops-automation.svg" width="100px" />
@@ -161,6 +165,7 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
  - [https://github.com/finos/devops-automation](https://github.com/finos/devops-automation)
  - [http://devops.finos.org](http://devops.finos.org)
  - [https://github.com/finos/architecture-as-code](https://github.com/finos/architecture-as-code)
+<a name="FINOS-Code-Scanning"></a>
 ## FINOS Code Scanning
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/finos-code-scanning.svg" width="100px" />
@@ -210,6 +215,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 > 
 #### Further Details
  - [https://github.com/finos/code-scanning](https://github.com/finos/code-scanning)
+<a name="HTC-Grid"></a>
 ## HTC-Grid
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/htc-grid.svg" width="100px" />
@@ -231,6 +237,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 #### Further Details
  - [https://github.com/finos/htc-grid](https://github.com/finos/htc-grid)
  - [https://finos.github.io/htc-grid/](https://finos.github.io/htc-grid/)
+<a name="Waltz"></a>
 ## Waltz
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/waltz.svg" width="100px" />
