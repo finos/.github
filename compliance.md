@@ -28,6 +28,12 @@ _FINOS Common Cloud Controls_
 > 
 #### Upcoming Meetings
 
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/94416168360))
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the first thursday_ ([Join Meeting](https://zoom.us/j/94416168360?pwd=8aqZjc5zybCLidmgF80ayN4XUTIw91.1))
+ - **CCC - Working Group: Taxonomy** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0pe7vrav35o95j4820ftr4qbvj_20251127T163000Z&title=CCC+-+Working+Group%3A+Taxonomy))
+ - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
+ - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://zoom.us/j/99708793584?pwd=Zl27vbXvKmYod1KxL4Gbkbm6LfeDlN.1))
+ - **CCC- Working Group: Taxonomy** - _Monthly on the second thursday_ ([Join Meeting](https://zoom.us/j/94109603410?pwd=IAahiaIrAbF6mXR2sXoE1HqGICElC7.1))
  - **FINOS Common Cloud Controls - Steering** - _Every 3 months on the second tuesday_ ([Join Meeting](https://zoom.us/j/93861901920))
 
 [View On Calendar](https://calendar.finos.org)

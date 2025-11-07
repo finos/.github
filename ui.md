@@ -29,6 +29,12 @@ _DesignOps toolchain theme builder for accessibility inclusion using Atomic Desi
 > Accessibility compliance is difficult. All too often accessibility is addressed late in the development and testing cycle. What if systems were designed upfront with accessible inclusion as a design principle? What if the workflow between designers and developers produced accessible components before the assembling of applications?
 >... [_read more_](https://github.com/finos/a11y-theme-builder)
 > 
+#### Upcoming Meetings
+
+ - **A11y Theme Builder Project Meeting** - _Weekly on Fridays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=mp8og91gofbooj3srqq8683p8m_20251114T141500Z&title=A11y+Theme+Builder+Project+Meeting))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/a11y-theme-builder](https://github.com/finos/a11y-theme-builder)
  - [https://github.com/finos/a11y-theme-builder-sdk](https://github.com/finos/a11y-theme-builder-sdk)
@@ -63,7 +69,7 @@ _Support for jupyter notebook templates in jupyterlab_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/perspective.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9539-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-9540-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-1241-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-107-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/perspective-dev/perspective/issues)
 
 _A data visualization and analytics component, especially well-suited for large and/or streaming datasets._
 

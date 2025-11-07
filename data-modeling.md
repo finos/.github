@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-198-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-95-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-124-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-198-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-95-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-125-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -31,6 +31,20 @@ _The CDM is a model for financial products, trades in those products, and the li
 > The FINOS Common Domain Model (CDM) is a standardised, machine-readable and machine-executable blueprint for how financial products are traded and managed across the transaction lifecycle. It is represented as a domain model and distributed in open source.
 >... [_read more_](https://github.com/finos/common-domain-model)
 > 
+#### Upcoming Meetings
+
+ - ** CDM Technology Architecture Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=58a21bfk7k3k05jb9e6pihkn69_20251113T140000Z&title=+CDM+Technology+Architecture+Working+Group))
+ - **CDM Collateral Working Group** - _Monthly on the last tuesday_ ([Join Meeting](https://zoom.us/j/96084284579?pwd=QTJ3bTBrMURkWXA1S0owa1djaEVIUT09))
+ - **CDM Contribution Review Working Group** - _Monthly on the third tuesday_ ([Join Meeting](https://zoom.us/j/96436091087?pwd=TUZMYm1KdGt2YWtxdDVHY3BpQzh0QT09))
+ - **CDM Contribution Review Working Group** - _Monthly on the first tuesday_ ([Join Meeting](https://zoom.us/j/96436091087?pwd=TUZMYm1KdGt2YWtxdDVHY3BpQzh0QT09))
+ - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom.us/j/94131415778?pwd=L1A2aUhoTEhoODdUZ0lrUkNLOXBiQT09))
+ - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://zoom.us/j/98029183668?pwd=R9om40D0tRAVL5LaMasvD57Z8bbPBT.1))
+ - **CDM Smart Contract Taskforce ** - _Every 4 weeks_ ([Join Meeting](https://zoom.us/j/94814106469?pwd=g2hS8SmKV4m7aapNHy2kbbIMAiZqCU.1))
+ - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://zoom.us/j/93756205037?pwd=NFd1SUh1ZXdOdVNjQXdLVzZBbnpudz09))
+ - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://zoom.us/j/96655082800?pwd=NaKW93vozi2KXxGk10JblGcJpQMspL.1))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/common-domain-model](https://github.com/finos/common-domain-model)
  - [https://github.com/finos/object-builder](https://github.com/finos/object-builder)
@@ -82,6 +96,12 @@ _kdb+ Working Group from FINOS Data Technologies program_
 > 6. Create a new Pull Request
 >... [_read more_](https://github.com/finos/kdb)
 > 
+#### Upcoming Meetings
+
+ - **FINOS KDB Project Call** - _Monthly on the second monday_ ([Join Meeting](https://zoom.us/j/94523415326?pwd=NkJDaUtUUlZTcHVwcUJHdG0yRFJUdz09))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/kdb](https://github.com/finos/kdb)
  - [https://github.com/finos/kdb-studio](https://github.com/finos/kdb-studio)
