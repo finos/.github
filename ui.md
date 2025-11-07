@@ -150,7 +150,7 @@ _A regular <table> library, for async and virtual data models._
 > 
 #### Further Details
  - [https://github.com/finos/regular-table](https://github.com/finos/regular-table)
-<a name="SymphonyElectron"></a>
+<a name="Symphony-Electron"></a>
 ## SymphonyElectron
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-electron.svg" width="100px" />
@@ -189,7 +189,7 @@ _A desktop client for the Symphony Collaboration Platform built using Electron_
  - [https://github.com/finos/SwiftSearch](https://github.com/finos/SwiftSearch)
  - [https://github.com/finos/ScreenShareIndicatorFrame](https://github.com/finos/ScreenShareIndicatorFrame)
  - [https://github.com/finos/SymphonyWindowsHwndHelper](https://github.com/finos/SymphonyWindowsHwndHelper)
-<a name="Vuu"></a>
+<a name="VUU"></a>
 ## Vuu
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/vuu.svg" width="100px" />

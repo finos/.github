@@ -8,7 +8,7 @@
  - [FINOS Code Scanning](#FINOS-Code-Scanning)
  - [High Throughput Compute Grid](#High-Throughput-Compute-Grid)
  - [Waltz](#Waltz)
-<a name="Architecture-as-Code"></a>
+<a name="Common-Architecture-Language-Model"></a>
 ## Architecture as Code
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
@@ -129,7 +129,7 @@ _Compliant Financial Infrastructure accelerates the development, deployment and 
  - [https://github.com/finos/terraform-aws-cfi-redshift](https://github.com/finos/terraform-aws-cfi-redshift)
  - [https://github.com/finos/terraform-aws-cfi-sqs](https://github.com/finos/terraform-aws-cfi-sqs)
  - [https://github.com/finos/cfi-ansible-aws-rds](https://github.com/finos/cfi-ansible-aws-rds)
-<a name="DevOps-Automation-Special-Interest-Group"></a>
+<a name="DevOps-Automation"></a>
 ## DevOps Automation Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/devops-automation.svg" width="100px" />
@@ -215,7 +215,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 > 
 #### Further Details
  - [https://github.com/finos/code-scanning](https://github.com/finos/code-scanning)
-<a name="HTC-Grid"></a>
+<a name="High-Throughput-Compute-Grid"></a>
 ## HTC-Grid
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/htc-grid.svg" width="100px" />

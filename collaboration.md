@@ -42,7 +42,7 @@ _MessageML is a markup language used by the Symphony Agent API for representing 
 #### Further Details
  - [https://github.com/finos/messageml-utils](https://github.com/finos/messageml-utils)
  - [https://docs.developers.symphony.com](https://docs.developers.symphony.com)
-<a name="symphony-api-spec"></a>
+<a name="REST-API-Specification"></a>
 ## symphony-api-spec
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-rest-api-spec.svg" width="100px" />
@@ -105,7 +105,7 @@ _Spring Boot + Java Integration for Symphony/Teams Chat Platform Bots and Apps_
 #### Further Details
  - [https://github.com/finos/spring-bot](https://github.com/finos/spring-bot)
  - [https://springbot.finos.org](https://springbot.finos.org)
-<a name="Symphony-BDK-for-Java"></a>
+<a name="Symphony-BDK-Java"></a>
 ## Symphony BDK for Java
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-java.svg" width="100px" />
@@ -136,7 +136,7 @@ _The Symphony BDK (Bot Developer Kit) for Java helps you to create production-gr
 #### Further Details
  - [https://github.com/finos/symphony-bdk-java](https://github.com/finos/symphony-bdk-java)
  - [https://symphony-bdk-java.finos.org](https://symphony-bdk-java.finos.org)
-<a name="Symphony-BDK-for-Python"></a>
+<a name="Symphony-BDK-Python"></a>
 ## Symphony BDK for Python
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-python.svg" width="100px" />
@@ -165,7 +165,7 @@ _Symphony Python Bot Development Kit (BDK)_
 #### Further Details
  - [https://github.com/finos/symphony-bdk-python](https://github.com/finos/symphony-bdk-python)
  - [https://symphony-bdk-python.finos.org/](https://symphony-bdk-python.finos.org/)
-<a name="SymphonyElectron"></a>
+<a name="Symphony-Electron"></a>
 ## SymphonyElectron
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-electron.svg" width="100px" />

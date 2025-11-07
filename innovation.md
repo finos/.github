@@ -37,7 +37,7 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 #### Further Details
  - [https://github.com/finos/ai-readiness](https://github.com/finos/ai-readiness)
  - [https://www.finos.org/ai-readiness](https://www.finos.org/ai-readiness)
-<a name="HTC-Grid"></a>
+<a name="High-Throughput-Compute-Grid"></a>
 ## HTC-Grid
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/htc-grid.svg" width="100px" />
@@ -59,7 +59,7 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 #### Further Details
  - [https://github.com/finos/htc-grid](https://github.com/finos/htc-grid)
  - [https://finos.github.io/htc-grid/](https://finos.github.io/htc-grid/)
-<a name="Welcome-to-Zenith"></a>
+<a name="Zenith"></a>
 ## Welcome to Zenith
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/zenith.svg" width="100px" />

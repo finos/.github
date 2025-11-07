@@ -38,7 +38,7 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 #### Further Details
  - [https://github.com/finos/ai-readiness](https://github.com/finos/ai-readiness)
  - [https://www.finos.org/ai-readiness](https://www.finos.org/ai-readiness)
-<a name="Open-Source-Talent-Acceleration-Special-Interest-Group"></a>
+<a name="Diversity-Equity-&-Inclusion-Special-Interest-Group"></a>
 ## Open Source Talent Acceleration Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/dei-sig.svg" width="100px" />
@@ -59,7 +59,7 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 #### Further Details
  - [https://github.com/finos/open-source-talent-acceleration](https://github.com/finos/open-source-talent-acceleration)
  - [https://talent.finos.org/](https://talent.finos.org/)
-<a name="FINOS-InnerSource-Special-Interest-Group"></a>
+<a name="InnerSource-Special-Interest-Group"></a>
 ## FINOS InnerSource Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/innersource.svg" width="100px" />
@@ -91,7 +91,7 @@ _The FINOS InnerSource SIG is a community of people implementing, or interested 
 > 
 #### Further Details
  - [https://github.com/finos/InnerSource](https://github.com/finos/InnerSource)
-<a name="FINOS-Open-Source-Readiness-Special-Interest-Group"></a>
+<a name="Open-source-readiness"></a>
 ## FINOS Open Source Readiness Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/open-source-readiness.svg" width="100px" />

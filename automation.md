@@ -6,7 +6,7 @@
  - [FINOS Code Scanning](#FINOS-Code-Scanning)
  - [Git Proxy](#Git-Proxy)
  - [Symphony Generator](#Symphony-Generator)
-<a name="Architecture-as-Code"></a>
+<a name="Common-Architecture-Language-Model"></a>
 ## Architecture as Code
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
@@ -46,7 +46,7 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 #### Further Details
  - [https://github.com/finos/architecture-as-code](https://github.com/finos/architecture-as-code)
  - [https://calm.finos.org](https://calm.finos.org)
-<a name="DevOps-Automation-Special-Interest-Group"></a>
+<a name="DevOps-Automation"></a>
 ## DevOps Automation Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/devops-automation.svg" width="100px" />

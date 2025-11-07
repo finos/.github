@@ -111,7 +111,7 @@ _Open Reg Tech: US LCR_
 #### Further Details
  - [https://github.com/finos/open-reg-tech-us-lcr](https://github.com/finos/open-reg-tech-us-lcr)
  - [https://github.com/finos/open-reg-tech-us-lcr](https://github.com/finos/open-reg-tech-us-lcr)
-<a name="FINOS-Regulation-Innovation-Special-Interest-Group"></a>
+<a name="Regulation-Innovation-Special-Interest-Group"></a>
 ## FINOS Regulation Innovation Special Interest Group
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/regulation-innovation.svg" width="100px" />

@@ -10,12 +10,12 @@
  - [TimeBase CE](#TimeBase-CE)
  - [TRAC d.a.p.](#TRAC-d.a.p.)
  - [TraderX](#TraderX)
-<a name="Common-Domain-Model-(CDM)"></a>
+<a name="Common-Domain-Model"></a>
 ## Common Domain Model (CDM)
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-198-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-95-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-125-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-198-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-95-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-127-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -73,7 +73,7 @@ _FINOS Financial Objects Program Documentation_
 #### Further Details
  - [https://github.com/finos/financial-objects](https://github.com/finos/financial-objects)
  - [http://fo.finos.org](http://fo.finos.org)
-<a name="FINOS-kdb+-Project"></a>
+<a name="kdb+"></a>
 ## FINOS kdb+ Project
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/finos.svg" width="100px" />
@@ -198,7 +198,7 @@ _A universal language for business and technology_
  - [https://github.com/finos/morphir-bosque](https://github.com/finos/morphir-bosque)
  - [https://github.com/finos/morphir-examples](https://github.com/finos/morphir-examples)
  - [https://github.com/finos/morphir-scala](https://github.com/finos/morphir-scala)
-<a name="The-Open-Middleware-Agnostic-Messaging-API"></a>
+<a name="OpenMAMA"></a>
 ## The Open Middleware Agnostic Messaging API
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/openmama.svg" width="100px" />
@@ -247,7 +247,7 @@ _High performance time series database_
 #### Further Details
  - [https://github.com/finos/TimeBase-CE](https://github.com/finos/TimeBase-CE)
  - [https://timebase.info](https://timebase.info)
-<a name="TRAC-D.a.p."></a>
+<a name="TRAC-d.a.p."></a>
 ## TRAC D.a.p.
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/tracdap.svg" width="100px" />
