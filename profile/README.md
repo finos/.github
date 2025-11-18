@@ -78,7 +78,7 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 #### Upcoming Meetings
 
  - **AI Governance Framework Working Session** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3ofjtrl4kk0anr4abh7lf3bkmn_20251217T150000Z&title=AI+Governance+Framework+Working+Session))
- - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6h9hpovttur3kn9iprh8106i59_20260106T160000Z&title=AI+Readiness+SIG))
+ - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=6h9hpovttur3kn9iprh8106i59_20251125T160000Z&title=AI+Readiness+SIG))
  - **Applied GenAI bi-weekly call** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=kanh94lc53abd2k42bokberhvl_20251120T180000Z&title=Applied+GenAI+bi-weekly+call))
  - **Open Financial LLM Leaderboard (OFLL) Working Session** - _Weekly on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97499954668?password=dbeea8fb-9611-4d7b-a0f4-366b36207a2b&amp;invite=true))
 
@@ -321,7 +321,7 @@ _The CDM is a model for financial products, trades in those products, and the li
  - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3plclrc99ir73c5j83v14kqgoi_20251210T140000Z&title=CDM+Physical+Risk+Working+Group))
  - **CDM Smart Contract Taskforce ** - _Every 4 weeks_ ([Join Meeting](https://calendar.finos.org/signup?eventId=01d6g4br02jqa4okt20hlgmikh_20251205T143000Z&title=CDM+Smart+Contract+Taskforce+))
  - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3fus5fjqie03nvtphf81gi4j5o_20251209T160000Z&title=CDM+Steering+Working+Group))
- - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=ra1qoghbg8q9aj4ho3tlmkodna_20251119T150000Z&title=CDM+Tokenized+Assets+Working+Group))
+ - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=ra1qoghbg8q9aj4ho3tlmkodna_20251217T150000Z&title=CDM+Tokenized+Assets+Working+Group))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -825,7 +825,7 @@ _FDC3 Desktop Agent Bridge_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-217-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-77-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-78-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-77-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-76-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
@@ -884,8 +884,8 @@ _FINOS Common Cloud Controls_
 > 
 #### Upcoming Meetings
 
- - **CCC - Working Group: Communications / All Hands** - _Monthly on the first thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5kgpfuusgahubnm16f5qehdkuc_20251204T170000Z&title=CCC+-+Working+Group%3A+Communications+%2F+All+Hands))
  - **CCC - Working Group: Communications / All Hands** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=00r84f8c81jvdvh5mop0vjkohg_20251120T170000Z&title=CCC+-+Working+Group%3A+Communications+%2F+All+Hands))
+ - **CCC - Working Group: Communications / All Hands** - _Monthly on the first thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5kgpfuusgahubnm16f5qehdkuc_20260101T170000Z&title=CCC+-+Working+Group%3A+Communications+%2F+All+Hands))
  - **CCC - Working Group: Taxonomy** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=0pe7vrav35o95j4820ftr4qbvj_20251225T163000Z&title=CCC+-+Working+Group%3A+Taxonomy))
  - **CCC Working Group: Compliant Financial Infrastructure** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=f962t9fnmorifbu5mhuprr63er_20251127T170000Z&title=CCC+Working+Group%3A+Compliant+Financial+Infrastructure))
  - **CCC- Working Group: Compliant Financial Infrastructure** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=5i1l8f19olh61s3gdner20l19q_20251120T110000Z&title=CCC-+Working+Group%3A+Compliant+Financial+Infrastructure))
@@ -1048,7 +1048,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fluxnova.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-12-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-3-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-1-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-14-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-3-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-1-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/issues)
 
 
 
@@ -1148,7 +1148,7 @@ _kdb+ Working Group from FINOS Data Technologies program_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/legend.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-1451-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-240-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-0-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-1452-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-240-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-0-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/issues)
 
 _The Legend project_
 
