@@ -1077,7 +1077,6 @@ _How to protect FINOS hosted projects from security threats and license complian
 
 #### Further Details
  - [https://github.com/finos/fluxnova-bpm-platform](https://github.com/finos/fluxnova-bpm-platform)
- - [https://github.com/finos/flowave-bpm-platform](https://github.com/finos/flowave-bpm-platform)
  - [https://github.com/finos/fluxnova-modeler](https://github.com/finos/fluxnova-modeler)
  - [https://github.com/finos/fluxnova-feel-scala](https://github.com/finos/fluxnova-feel-scala)
  - [https://github.com/finos/fluxnova-bpm-release-parent](https://github.com/finos/fluxnova-bpm-release-parent)
