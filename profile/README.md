@@ -295,7 +295,7 @@ _Create a space where expertise can be identified and implemented to help the fi
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-205-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-97-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-138-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-205-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-97-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-139-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -334,7 +334,7 @@ _The CDM is a model for financial products, trades in those products, and the li
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-238-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-157-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-92-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-239-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-157-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-92-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/issues)
 
 _An open standard for the financial desktop._
 
@@ -826,7 +826,7 @@ _FDC3 Desktop Agent Bridge_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-77-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-83-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-216-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-77-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-85-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
