@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 25 Dec 2025):
+Here are some of FINOS' most active projects (as of 26 Dec 2025):
 
 
 **Special Interest Groups:**
@@ -378,7 +378,7 @@ _An open standard for the financial desktop._
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/git-proxy.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-175-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-150-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-93-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-175-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-151-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-94-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
 
 _Deploy custom push protections and policies on top of Git_
 
@@ -520,7 +520,7 @@ _A universal language for business and technology_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/openmama.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-167-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/OpenMAMA/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-59-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/OpenMAMA)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-3-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/OpenMAMA/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-168-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/OpenMAMA/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-59-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/OpenMAMA)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-3-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/OpenMAMA/issues)
 
 _OpenMAMA is an open source project that provides a high performance middleware agnostic messaging API that interfaces with a variety of proprietary and open source message oriented middleware systems._
 
@@ -865,7 +865,7 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ccc.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-76-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-66-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-9-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-76-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-66-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-8-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/issues)
 
 _FINOS Common Cloud Controls_
 
@@ -1446,7 +1446,7 @@ _A next-generation data and analytics platform for use in highly regulated envir
 > 
 #### Upcoming Meetings
 
- - **TraderX - Monthly** - _Monthly on the fourth friday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3h8b1ovp0half18sp0qah5pqii_20251226T130000Z&title=TraderX+-+Monthly))
+ - **TraderX - Monthly** - _Monthly on the fourth friday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3h8b1ovp0half18sp0qah5pqii_20260123T130000Z&title=TraderX+-+Monthly))
 
 [View On Calendar](https://calendar.finos.org)
 
