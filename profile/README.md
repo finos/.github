@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 09 Jan 2026):
+Here are some of FINOS' most active projects (as of 10 Jan 2026):
 
 
 **Special Interest Groups:**
@@ -364,7 +364,7 @@ _An open standard for the financial desktop._
  - **FDC3 Sail Project Meeting** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?password=90638454-991c-4ab0-8aed-791fc372623c&amp;invite=true))
  - **FDC3 Standard Working Group** - _Monthly on the fourth thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=4i44ucnpa0h7j8osedpcdhkr9k_20260122T150000Z&title=FDC3+Standard+Working+Group))
  - **FDC3 Use Cases and Workflows Discussion Group** - _Monthly on the first thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=vs0q1o7iesi4nsnfae37kvuo8s_20260205T150000Z&title=FDC3+Use+Cases+and+Workflows+Discussion+Group))
- - **FDC3 Web Browsers + Bridging Discussion group** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=f7gi6dhef8srpkjl9l83stetv2_20260115T150000Z&title=FDC3+Web+Browsers+%2B+Bridging+Discussion+group))
+ - **FDC3 Web Browsers + Bridging Discussion group** - _Monthly on the third thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=f7gi6dhef8srpkjl9l83stetv2_20260219T150000Z&title=FDC3+Web+Browsers+%2B+Bridging+Discussion+group))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -824,7 +824,7 @@ _FDC3 Desktop Agent Bridge_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-255-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-84-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-84-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-255-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-84-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-83-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
