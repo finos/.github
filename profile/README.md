@@ -1075,7 +1075,6 @@ _How to protect FINOS hosted projects from security threats and license complian
 
 #### Further Details
  - [https://github.com/finos/fluxnova-bpm-platform](https://github.com/finos/fluxnova-bpm-platform)
- - [https://github.com/finos/fluxnova-bpm-platform](https://github.com/finos/fluxnova-bpm-platform)
  - [https://github.com/finos/fluxnova-modeler](https://github.com/finos/fluxnova-modeler)
  - [https://github.com/finos/fluxnova-feel-scala](https://github.com/finos/fluxnova-feel-scala)
  - [https://github.com/finos/fluxnova-bpm-release-parent](https://github.com/finos/fluxnova-bpm-release-parent)
@@ -1084,6 +1083,7 @@ _How to protect FINOS hosted projects from security threats and license complian
  - [https://github.com/finos/fluxnova-examples](https://github.com/finos/fluxnova-examples)
  - [https://github.com/finos/fluxnova-website](https://github.com/finos/fluxnova-website)
  - [https://github.com/finos/fluxnova-docs-theme](https://github.com/finos/fluxnova-docs-theme)
+ 
 <a name="High-Throughput-Compute-Grid"></a>
 ## HTC-Grid
 
