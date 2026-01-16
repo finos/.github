@@ -1,0 +1,38 @@
+name: Secure Maintainer Auto-Merge
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  check-and-merge:
+    runs-on: ubuntu-latest
+    if: github.head_ref == 'generated-branch'
+    
+    permissions:
+      pull-requests: write
+      contents: write
+
+    steps:
+      - name: Check if user has Maintainer/Write permissions
+        id: check_perms
+        run: |
+          # Get the permission level of the PR creator
+          PERMISSION=$(gh api repos/${{ github.repository }}/collaborators/${{ github.event.pull_request.user.login }}/permission | jq -r '.permission')
+          echo "User permission level: $PERMISSION"
+          
+          # Check if permission is 'admin', 'maintain', or 'write'
+          if [[ "$PERMISSION" == "admin" || "$PERMISSION" == "maintain" || "$PERMISSION" == "write" ]]; then
+            echo "authorized=true" >> $GITHUB_OUTPUT
+          else
+            echo "authorized=false" >> $GITHUB_OUTPUT
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Enable Auto-Merge
+        if: steps.check_perms.outputs.authorized == 'true'
+        run: gh pr merge --auto --merge "$PR_URL"
+        env:
+          PR_URL: ${{ github.event.pull_request.html_url }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
