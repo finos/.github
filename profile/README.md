@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 24 Jan 2026):
+Here are some of FINOS' most active projects (as of 25 Jan 2026):
 
 
 **Special Interest Groups:**
@@ -94,7 +94,7 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/devops-automation.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-75-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/devops-automation/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-18-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/devops-automation)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-24-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/devops-automation/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-76-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/devops-automation/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-18-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/devops-automation)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-24-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/devops-automation/issues)
 
 _Provide a continuous compliance and assurance approach to DevOps that mutually benefits banks, auditors and regulators whilst accelerating DevOps adoption in engineering and fintech IT departments._
 
@@ -237,7 +237,7 @@ _Accelerate financial services firms’ journeys toward open source readiness, b
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/regulation-innovation.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-44-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/open-regtech-sig/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-9-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/open-regtech-sig)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-23-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/open-regtech-sig/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-44-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/open-regtech-sig/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-10-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/open-regtech-sig)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-23-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/open-regtech-sig/issues)
 
 _The FINOS Regulation Innovation Special Interest Group (SIG) is a community of people interested in creating open source solutions for regulatory and compliance issues in financial services._
 
@@ -555,7 +555,7 @@ _OpenMAMA is an open source project that provides a high performance middleware 
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/regular-table.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-386-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/regular-table/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-41-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/regular-table)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-15-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/regular-table/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-387-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/regular-table/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-41-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/regular-table)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-15-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/regular-table/issues)
 
 _A regular <table> library, for async and virtual data models._
 
@@ -1148,7 +1148,7 @@ _kdb+ Working Group from FINOS Data Technologies program_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/legend.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-1469-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-245-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-2-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-1470-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-246-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-2-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/issues)
 
 _The Legend project_
 
