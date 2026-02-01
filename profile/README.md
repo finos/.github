@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 31 Jan 2026):
+Here are some of FINOS' most active projects (as of 01 Feb 2026):
 
 
 **Special Interest Groups:**
@@ -294,7 +294,7 @@ _Create a space where expertise can be identified and implemented to help the fi
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-215-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-102-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-138-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-215-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-102-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-140-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -378,7 +378,7 @@ _An open standard for the financial desktop._
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/git-proxy.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-182-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-154-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-104-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-182-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-154-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-99-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
 
 _Deploy custom push protections and policies on top of Git_
 
