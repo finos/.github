@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 06 Feb 2026):
+Here are some of FINOS' most active projects (as of 07 Feb 2026):
 
 
 **Special Interest Groups:**
@@ -378,7 +378,7 @@ _An open standard for the financial desktop._
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/git-proxy.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-182-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-154-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-101-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-182-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-154-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-100-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
 
 _Deploy custom push protections and policies on top of Git_
 
@@ -763,7 +763,7 @@ _DesignOps toolchain theme builder for accessibility inclusion using Atomic Desi
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ai-governance-framework.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-44-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-21-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-35-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-44-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-22-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-35-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/issues)
 
 _Our goal is to mutually develop a governance framework that manages the on-boarding, development of, and running AI-based solutions within financial services organisations - allowing us all to unlock the potential of this disruptive technology in a safe, trustworthy and compliant way._
 
@@ -825,7 +825,7 @@ _FDC3 Desktop Agent Bridge_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-262-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-86-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-90-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-262-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-86-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-91-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
@@ -865,7 +865,7 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ccc.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-75-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-66-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-7-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-75-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-65-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-7-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-cloud-controls/issues)
 
 _FINOS Common Cloud Controls_
 
