@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 10 Feb 2026):
+Here are some of FINOS' most active projects (as of 11 Feb 2026):
 
 
 **Special Interest Groups:**
@@ -315,12 +315,13 @@ _The CDM is a model for financial products, trades in those products, and the li
 
  - ** CDM Technology Architecture Working Group** - _Monthly on the second thursday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=58a21bfk7k3k05jb9e6pihkn69_20260212T140000Z&title=+CDM+Technology+Architecture+Working+Group))
  - **CDM Collateral Working Group** - _Monthly on the last tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=dbqcnqhp9q0pkidaig9gopsboc_20260224T150000Z&title=CDM+Collateral+Working+Group))
+ - **CDM Collateral Working Group** - _Monthly on the last wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=gagu9luf2jvj5dftgqm0ac5pfk_20260429T140000Z&title=CDM+Collateral+Working+Group))
  - **CDM Contribution Review Working Group** - _Monthly on the first tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3rj6nqfgommkqpk53s8rgmsfen_20260303T150000Z&title=CDM+Contribution+Review+Working+Group))
  - **CDM Contribution Review Working Group** - _Monthly on the third tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=69q8mptjjadgu6mnstpt0nbncm_20260217T150000Z&title=CDM+Contribution+Review+Working+Group))
- - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=8cho1bqeil5tr5fg1gdckgts4k_20260211T163000Z&title=CDM+Derivatives+Working+Group))
- - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3plclrc99ir73c5j83v14kqgoi_20260211T140000Z&title=CDM+Physical+Risk+Working+Group))
+ - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=8cho1bqeil5tr5fg1gdckgts4k_20260225T163000Z&title=CDM+Derivatives+Working+Group))
+ - **CDM Physical Risk Working Group** - _Monthly on the second wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3plclrc99ir73c5j83v14kqgoi_20260311T130000Z&title=CDM+Physical+Risk+Working+Group))
  - **CDM Smart Contract Taskforce ** - _Every 4 weeks_ ([Join Meeting](https://calendar.finos.org/signup?eventId=01d6g4br02jqa4okt20hlgmikh_20260227T143000Z&title=CDM+Smart+Contract+Taskforce+))
- - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3fus5fjqie03nvtphf81gi4j5o_20260310T150000Z&title=CDM+Steering+Working+Group))
+ - **CDM Steering Working Group** - _Monthly on the second tuesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=3fus5fjqie03nvtphf81gi4j5o_20260210T160000Z&title=CDM+Steering+Working+Group))
  - **CDM Tokenized Assets Working Group** - _Monthly on the third wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=ra1qoghbg8q9aj4ho3tlmkodna_20260318T140000Z&title=CDM+Tokenized+Assets+Working+Group))
 
 [View On Calendar](https://calendar.finos.org)
@@ -333,7 +334,7 @@ _The CDM is a model for financial products, trades in those products, and the li
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-242-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-165-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-83-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-243-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-165-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-82-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/issues)
 
 _An open standard for the financial desktop._
 
@@ -378,7 +379,7 @@ _An open standard for the financial desktop._
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/git-proxy.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-182-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-154-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-94-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-182-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-153-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-93-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
 
 _Deploy custom push protections and policies on top of Git_
 
@@ -479,7 +480,7 @@ _MessageML is a markup language used by the Symphony Agent API for representing 
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/morphir.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-181-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-65-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-123-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-182-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-65-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-123-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/morphir/issues)
 
 _A universal language for business and technology_
 
@@ -825,7 +826,7 @@ _FDC3 Desktop Agent Bridge_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-262-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-88-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-91-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-262-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-88-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-90-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)[![Join The Mailing List](https://img.shields.io/badge/📫%20Mailing%20List-Join-orange?labelColor=eaebec&style=for-the-badge) ](mailto:calm+subscribe@lists.finos.org)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
@@ -937,7 +938,7 @@ _A framework for testing whether desktop containers implement the FDC3 standard_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/sail.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-41-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3-Sail/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-32-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3-Sail)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-30-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3-Sail/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-41-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3-Sail/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-32-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3-Sail)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-31-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3-Sail/issues)
 
 _Open implementation of the FDC3 standard using Electron and an integrated App Directory._
 
@@ -1147,7 +1148,7 @@ _kdb+ Working Group from FINOS Data Technologies program_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/legend.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-1474-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-245-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-2-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-1476-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-245-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-2-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/legend/issues)
 
 _The Legend project_
 
