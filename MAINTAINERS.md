@@ -6,7 +6,8 @@ This file lists the maintainers of this repository.
 
 | GitHub Username | Name | Organization | Email |
 |----------------|------|--------------|-------|
-| *please add github username* | *please add name* | *please add organization* | *please add email* |
+| @robmoffat | Rob Moffat | FINOS | *please add email* |
+| @thejuanandonly99 | Juan Estrella | FINOS | *please add email* |
 
 For information about maintainer responsibilities and resources, see the [FINOS Maintainers Cheatsheet](https://community.finos.org/docs/finos-maintainers-cheatsheet).
 
