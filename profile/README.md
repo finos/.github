@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 04 Jul 2026):
+Here are some of FINOS' most active projects (as of 05 Jul 2026):
 
 
 **Special Interest Groups:**
@@ -339,7 +339,7 @@ _DesignOps toolchain theme builder for accessibility inclusion using Atomic Desi
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ai-governance-framework.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-87-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-47-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-59-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-88-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-47-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-59-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/issues)
 
 _Our goal is to mutually develop a governance framework that manages the on-boarding, development of, and running AI-based solutions within financial services organisations - allowing us all to unlock the potential of this disruptive technology in a safe, trustworthy and compliant way._
 
@@ -623,7 +623,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fluxnova.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-75-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-19-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-58-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-75-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-19-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-57-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/issues)
 
 
 
