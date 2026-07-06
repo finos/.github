@@ -295,7 +295,7 @@ _Create a space where expertise can be identified and implemented to help the fi
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-264-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-124-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-84-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-264-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-124-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-85-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -332,7 +332,7 @@ _The CDM is a model for financial products, trades in those products, and the li
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-259-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-177-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-102-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-259-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-177-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-100-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/issues)
 
 _An open standard for the financial desktop._
 
@@ -1323,7 +1323,7 @@ _OpenGRIS aims to provide a standard to allow different hardware and compute poo
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/rune.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-46-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-34-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-130-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-46-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-34-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-132-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/issues)
 
 _The project containing the Rune DSL grammar and default code generators_
 
