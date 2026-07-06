@@ -80,7 +80,9 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 > 
 #### Upcoming Meetings
 
+ - **AI Governance Framework Working Session** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97158459687?password=62a83d0b-7b19-416d-8250-e5bcf9f7640b&invite=true))
  - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/99090239193?password=f3797488-6467-44c9-8976-9b50e42cbdff&invite=true))
+ - **Applied GenAI bi-weekly call** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/93365601230?password=4ab2a8b6-6da5-400f-b56d-1b8f1f197b47&invite=true))
  - **Open Financial LLM Leaderboard (OFLL) Working Session** - _Weekly on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97499954668?password=dbeea8fb-9611-4d7b-a0f4-366b36207a2b&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
@@ -360,6 +362,7 @@ _An open standard for the financial desktop._
 
  - **FDC3 General Meeting** - _Every 3 months on +3TU_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97317265591?password=9dfb7027-5eff-41dd-8ce9-61e9c7da2f44&invite=true))
  - **FDC3 Identity & Security Working Group** - _Monthly on +2TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92600977319?password=17e9e8f8-7d4e-47b4-b8f0-8c68b02005de&invite=true))
+ - **FDC3 Sail Project Meeting** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?password=90638454-991c-4ab0-8aed-791fc372623c&invite=true))
  - **FDC3 Standard Working Group** - _Monthly on +4TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96839365264?password=b5c2bc6a-bc47-43a5-bc49-7be3e0b422c3&invite=true))
  - **FDC3 Use Cases and Workflows Discussion Group** - _Monthly on +1TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/91001005768?password=0c878e0c-b8a4-42d3-9786-e8c1524d6d1c&invite=true))
  - **FDC3 Web Browsers + Bridging Discussion group** - _Monthly on +3TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96615992377?password=88ed4841-afa2-41a6-8de3-e246967e5566&invite=true))
@@ -804,6 +807,12 @@ _Our goal is to mutually develop a governance framework that manages the on-boar
 > Our goal is to mutually develop a governance framework that manages the on-boarding, development of, and running AI-based solutions within financial services organisations - allowing us all to unlock the potential of this disruptive technology in a safe, trustworthy and compliant way.
 >... [_read more_](https://github.com/finos/ai-governance-framework)
 > 
+#### Upcoming Meetings
+
+ - **AI Governance Framework Working Session** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97158459687?password=62a83d0b-7b19-416d-8250-e5bcf9f7640b&invite=true))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/ai-governance-framework](https://github.com/finos/ai-governance-framework)
  - [https://air-governance-framework.finos.org/](https://air-governance-framework.finos.org/)
@@ -982,6 +991,12 @@ _Open implementation of the FDC3 standard using Electron and an integrated App D
 > If you are new to FDC3, it may be helpful to check out [The FDC3 Website](https://fdc3.finos.org)
 >... [_read more_](https://github.com/finos/FDC3-Sail)
 > 
+#### Upcoming Meetings
+
+ - **FDC3 Sail Project Meeting** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95252800112?password=90638454-991c-4ab0-8aed-791fc372623c&invite=true))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/FDC3-Sail](https://github.com/finos/FDC3-Sail)
 <a name="FIN-OCR"></a>
@@ -1089,6 +1104,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 > 
 #### Upcoming Meetings
 
+ - **Fluxnova - AI Working Group Meeting** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/94324343329?password=4fd47917-b89f-4c7c-8925-a8a4e5b54ab1&invite=true))
  - **Fluxnova Public Meeting** - _Monthly on +3TU_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98975602417?password=8a1c796a-2eba-4f71-beeb-e3ecb7eb3450&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
@@ -1154,6 +1170,12 @@ _kdb+ Working Group from FINOS Data Technologies program_
 > 6. Create a new Pull Request
 >... [_read more_](https://github.com/finos/kdb)
 > 
+#### Upcoming Meetings
+
+ - **KDB Project Meeting** - _Monthly on +2MO_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98835871246?password=a9b34d3e-5ddf-48a7-9748-c3b81326625d&invite=true))
+
+[View On Calendar](https://calendar.finos.org)
+
 #### Further Details
  - [https://github.com/finos/kdb](https://github.com/finos/kdb)
  - [https://github.com/finos/kdb-studio](https://github.com/finos/kdb-studio)
@@ -1301,7 +1323,7 @@ _OpenGRIS aims to provide a standard to allow different hardware and compute poo
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/rune.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-46-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-34-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-133-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-46-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-34-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-130-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/issues)
 
 _The project containing the Rune DSL grammar and default code generators_
 
@@ -1325,7 +1347,7 @@ _The project containing the Rune DSL grammar and default code generators_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-bdk-java.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-29-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/symphony-bdk-java/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-75-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/symphony-bdk-java)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-12-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/symphony-bdk-java/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-30-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/symphony-bdk-java/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-75-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/symphony-bdk-java)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-12-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/symphony-bdk-java/issues)
 
 _The Symphony BDK (Bot Developer Kit) for Java helps you to create production-grade Chat Bots and Extension Applications on top of the Symphony REST APIs._
 
