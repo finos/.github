@@ -80,8 +80,8 @@ _The AI Readiness SIG provides a space to address AI-related challenges that are
 > 
 #### Upcoming Meetings
 
- - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=99090239193&title=AI+Readiness+SIG))
- - **Open Financial LLM Leaderboard (OFLL) Working Session** - _Weekly on Tuesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=97499954668&title=Open+Financial+LLM+Leaderboard+%28OFLL%29+Working+Session))
+ - **AI Readiness SIG** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/99090239193?password=f3797488-6467-44c9-8976-9b50e42cbdff&invite=true))
+ - **Open Financial LLM Leaderboard (OFLL) Working Session** - _Weekly on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97499954668?password=dbeea8fb-9611-4d7b-a0f4-366b36207a2b&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -112,11 +112,11 @@ _Provide a continuous compliance and assurance approach to DevOps that mutually 
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=98579493833%3A2025-12-04T15%3A30%3A00Z&title=Architecture+as+Code+Office+Hours))
- - **Architecture as Code Working Group - DevOps Automation** - _Monthly on +4TU_ ([Join Meeting](https://calendar.finos.org/signup?eventId=95612628024%3A2025-12-23T16%3A00%3A00Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
- - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=99097187457&title=Evolution+at+Scale+-+DevOps+Automation+Working+Group))
- - **FINOS DevOps Automation - Special Interest Group** - _Monthly on +3TH_ ([Join Meeting](https://calendar.finos.org/signup?eventId=91759523655&title=FINOS+DevOps+Automation+-+Special+Interest+Group))
- - **SDLC Governance Framework Working Group Meeting - Dev Ops Automation** - _Every 2 weeks on Mondays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=96292319760&title=SDLC+Governance+Framework+Working+Group+Meeting+-+Dev+Ops+Automation))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98579493833?password=2af32413-a2a4-4ada-b064-ae8544c64c85&invite=true))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on +4TU_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95612628024?password=bd0f263c-4fad-490f-8b36-56ff98932456&invite=true))
+ - **Evolution at Scale - DevOps Automation Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/99097187457?password=ec96279c-c93a-450b-bb3b-6d45672f11f8&invite=true))
+ - **FINOS DevOps Automation - Special Interest Group** - _Monthly on +3TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/91759523655?password=2582c57a-491c-43de-af16-9d608b535afd&invite=true))
+ - **SDLC Governance Framework Working Group Meeting - Dev Ops Automation** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96292319760?password=a023f03e-c2aa-46fb-aae3-5d93c9d9664e&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -203,7 +203,7 @@ _Accelerate financial services firms’ journeys toward open source readiness, b
 > 
 #### Upcoming Meetings
 
- - **Open Source Readiness SIG** - _Monthly on +1WE_ ([Join Meeting](https://calendar.finos.org/signup?eventId=99536057059&title=Open+Source+Readiness+SIG))
+ - **Open Source Readiness SIG** - _Monthly on +1WE_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/99536057059?password=2a772de5-8e26-4f8e-b026-97da76952ad6&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -280,7 +280,7 @@ _Create a space where expertise can be identified and implemented to help the fi
 > 
 #### Upcoming Meetings
 
- - **Zenith - Emerging Technologies SIG** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=91492872876&title=Zenith+-+Emerging+Technologies+SIG))
+ - **Zenith - Emerging Technologies SIG** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/91492872876?password=af9079e0-fb86-418d-803b-1373ec1fb143&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -312,13 +312,13 @@ _The CDM is a model for financial products, trades in those products, and the li
 > 
 #### Upcoming Meetings
 
- - **CDM Collateral Working Group** - _Monthly on the last wednesday_ ([Join Meeting](https://calendar.finos.org/signup?eventId=94271033159&title=CDM+Collateral+Working+Group))
- - **CDM Contribution Review Working Group** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=94584131804&title=CDM+Contribution+Review+Working+Group))
- - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=94159751957&title=CDM+Derivatives+Working+Group))
- - **CDM Physical Risk Working Group** - _Monthly on +2WE_ ([Join Meeting](https://calendar.finos.org/signup?eventId=93988274402&title=CDM+Physical+Risk+Working+Group))
- - **CDM Steering Working Group** - _Monthly on +2TU_ ([Join Meeting](https://calendar.finos.org/signup?eventId=96571699438&title=CDM+Steering+Working+Group))
- - **CDM Technology Architecture Working Group** - _Monthly on +2TH_ ([Join Meeting](https://calendar.finos.org/signup?eventId=95550011535&title=CDM+Technology+Architecture+Working+Group))
- - **CDM Tokenized Assets Working Group** - _Monthly on +3WE_ ([Join Meeting](https://calendar.finos.org/signup?eventId=92172584188&title=CDM+Tokenized+Assets+Working+Group))
+ - **CDM Collateral Working Group** - _Monthly on the last wednesday_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/94271033159?password=0452bf20-88ad-423b-8b3b-a23c57524f09&invite=true))
+ - **CDM Contribution Review Working Group** - _Every 2 weeks on Tuesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/94584131804?password=b7edff0a-9cc6-426f-b0d9-28eb4fb0de71&invite=true))
+ - **CDM Derivatives Working Group** - _Every 2 weeks on Wednesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/94159751957?password=8a54da8a-9f42-4448-a8a9-246e545279cb&invite=true))
+ - **CDM Physical Risk Working Group** - _Monthly on +2WE_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/93988274402?password=cc529a12-6925-413d-a7a8-19ec7a37cfdc&invite=true))
+ - **CDM Steering Working Group** - _Monthly on +2TU_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96571699438?password=8a8b1c3f-2ccd-46ce-99b5-42e173e48c74&invite=true))
+ - **CDM Technology Architecture Working Group** - _Monthly on +2TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95550011535?password=26d713be-93a8-45ee-b497-9e88f0dc10d0&invite=true))
+ - **CDM Tokenized Assets Working Group** - _Monthly on +3WE_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92172584188?password=cf35c343-0e3e-49e3-9dae-117c6f6accb8&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -358,11 +358,11 @@ _An open standard for the financial desktop._
 > 
 #### Upcoming Meetings
 
- - **FDC3 General Meeting** - _Every 3 months on +3TU_ ([Join Meeting](https://calendar.finos.org/signup?eventId=97317265591&title=FDC3+General+Meeting))
- - **FDC3 Identity & Security Working Group** - _Monthly on +2TH_ ([Join Meeting](https://calendar.finos.org/signup?eventId=92600977319&title=FDC3+Identity+%26+Security+Working+Group))
- - **FDC3 Standard Working Group** - _Monthly on +4TH_ ([Join Meeting](https://calendar.finos.org/signup?eventId=96839365264&title=FDC3+Standard+Working+Group))
- - **FDC3 Use Cases and Workflows Discussion Group** - _Monthly on +1TH_ ([Join Meeting](https://calendar.finos.org/signup?eventId=91001005768&title=FDC3+Use+Cases+and+Workflows+Discussion+Group))
- - **FDC3 Web Browsers + Bridging Discussion group** - _Monthly on +3TH_ ([Join Meeting](https://calendar.finos.org/signup?eventId=96615992377&title=FDC3+Web+Browsers+%2B+Bridging+Discussion+group))
+ - **FDC3 General Meeting** - _Every 3 months on +3TU_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/97317265591?password=9dfb7027-5eff-41dd-8ce9-61e9c7da2f44&invite=true))
+ - **FDC3 Identity & Security Working Group** - _Monthly on +2TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/92600977319?password=17e9e8f8-7d4e-47b4-b8f0-8c68b02005de&invite=true))
+ - **FDC3 Standard Working Group** - _Monthly on +4TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96839365264?password=b5c2bc6a-bc47-43a5-bc49-7be3e0b422c3&invite=true))
+ - **FDC3 Use Cases and Workflows Discussion Group** - _Monthly on +1TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/91001005768?password=0c878e0c-b8a4-42d3-9786-e8c1524d6d1c&invite=true))
+ - **FDC3 Web Browsers + Bridging Discussion group** - _Monthly on +3TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96615992377?password=88ed4841-afa2-41a6-8de3-e246967e5566&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -403,7 +403,7 @@ _Deploy custom push protections and policies on top of Git_
 > 
 #### Upcoming Meetings
 
- - **Git Proxy Project Meeting** - _Every 2 weeks on Mondays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=95849833904&title=Git+Proxy+Project+Meeting))
+ - **Git Proxy Project Meeting** - _Every 2 weeks on Mondays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95849833904?password=99413314-d03a-4b1c-b682-1ede2c399595&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -498,7 +498,7 @@ _A universal language for business and technology_
 > 
 #### Upcoming Meetings
 
- - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=96826203663&title=FINOS+Morphir+Project+Meeting))
+ - **FINOS Morphir Project Meeting** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96826203663?password=32129227-1c0f-47a4-b71a-26b87aa7c2a9&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -644,7 +644,7 @@ _Spring Boot + Java Integration for Symphony/Teams Chat Platform Bots and Apps_
 > 
 #### Upcoming Meetings
 
- - **Spring Bot Project Meeting** - _Weekly on Wednesdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=91459369501&title=Spring+Bot+Project+Meeting))
+ - **Spring Bot Project Meeting** - _Weekly on Wednesdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/91459369501?password=8e2f4c59-ed09-442a-8707-b2edc8d74a81&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -716,7 +716,7 @@ _Enterprise Information Service_
 > 
 #### Upcoming Meetings
 
- - **Waltz Project Meeting** - _Monthly on +2MO_ ([Join Meeting](https://calendar.finos.org/signup?eventId=96950469863&title=Waltz+Project+Meeting))
+ - **Waltz Project Meeting** - _Monthly on +2MO_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/96950469863?password=a4229b81-221e-4262-8d22-f7ba73ca007f&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -776,7 +776,7 @@ _DesignOps toolchain theme builder for accessibility inclusion using Atomic Desi
 > 
 #### Upcoming Meetings
 
- - **A11y Theme Builder Project Meeting** - _Weekly on Fridays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=99354850498&title=A11y+Theme+Builder+Project+Meeting))
+ - **A11y Theme Builder Project Meeting** - _Weekly on Fridays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/99354850498?password=2545922e-1c6b-41b9-a73f-16695a10c24e&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -873,8 +873,8 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 > 
 #### Upcoming Meetings
 
- - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=98579493833%3A2025-12-04T15%3A30%3A00Z&title=Architecture+as+Code+Office+Hours))
- - **Architecture as Code Working Group - DevOps Automation** - _Monthly on +4TU_ ([Join Meeting](https://calendar.finos.org/signup?eventId=95612628024%3A2025-12-23T16%3A00%3A00Z&title=Architecture+as+Code+Working+Group+-+DevOps+Automation))
+ - **Architecture as Code Office Hours** - _Weekly on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98579493833?password=2af32413-a2a4-4ada-b064-ae8544c64c85&invite=true))
+ - **Architecture as Code Working Group - DevOps Automation** - _Monthly on +4TU_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95612628024?password=bd0f263c-4fad-490f-8b36-56ff98932456&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -905,11 +905,11 @@ _FINOS Common Cloud Controls_
 > 
 #### Upcoming Meetings
 
- - **CCC - Working Group: Communications / All Hands** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=95756611623&title=CCC+-+Working+Group%3A+Communications+%2F+All+Hands))
- - **CCC - Working Group: Taxonomy** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=94797723931&title=CCC+-+Working+Group%3A+Taxonomy))
- - **CCC - Working Group: Website Improvement** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=99544858218&title=CCC+-+Working+Group%3A+Website+Improvement))
- - **CCC Working Group: Compliant Financial Infrastructure (NA/LATAM)** - _Monthly on +4TH_ ([Join Meeting](https://calendar.finos.org/signup?eventId=94786708589&title=CCC+Working+Group%3A+Compliant+Financial+Infrastructure+%28NA%2FLATAM%29))
- - **CCC- Working Group: Compliant Financial Infrastructure (EU/APAC)** - _Weekly on Thursdays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=95780953406%3A2026-07-09T10%3A00%3A00Z&title=CCC-+Working+Group%3A+Compliant+Financial+Infrastructure+%28EU%2FAPAC%29))
+ - **CCC - Working Group: Communications / All Hands** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95756611623?password=64d02ae0-6cec-428f-87a0-cb8be5f39945&invite=true))
+ - **CCC - Working Group: Taxonomy** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/94797723931?password=f08c4217-33c6-417b-a234-1a9c02abcac5&invite=true))
+ - **CCC - Working Group: Website Improvement** - _Every 2 weeks on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/99544858218?password=18b1e02c-7903-4eb6-a0d5-63284ae5af3b&invite=true))
+ - **CCC Working Group: Compliant Financial Infrastructure (NA/LATAM)** - _Monthly on +4TH_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/94786708589?password=292562aa-0bc9-4742-a150-1dd7a7586392&invite=true))
+ - **CCC- Working Group: Compliant Financial Infrastructure (EU/APAC)** - _Weekly on Thursdays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/95780953406?password=4be05216-d763-4eb3-8288-8fbb69ed298f&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -1089,7 +1089,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 > 
 #### Upcoming Meetings
 
- - **Fluxnova Public Meeting** - _Monthly on +3TU_ ([Join Meeting](https://calendar.finos.org/signup?eventId=98975602417&title=Fluxnova+Public+Meeting))
+ - **Fluxnova Public Meeting** - _Monthly on +3TU_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/98975602417?password=8a1c796a-2eba-4f71-beeb-e3ecb7eb3450&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
@@ -1287,7 +1287,7 @@ _OpenGRIS aims to provide a standard to allow different hardware and compute poo
 > 
 #### Upcoming Meetings
 
- - **OpenGris Project Meeting** - _Every 2 weeks on Fridays_ ([Join Meeting](https://calendar.finos.org/signup?eventId=91949257192&title=OpenGris+Project+Meeting))
+ - **OpenGris Project Meeting** - _Every 2 weeks on Fridays_ ([Join Meeting](https://zoom-lfx.platform.linuxfoundation.org/meeting/91949257192?password=f8a27a59-811a-47af-b9a5-1216d77d2692&invite=true))
 
 [View On Calendar](https://calendar.finos.org)
 
