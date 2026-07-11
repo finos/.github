@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 10 Jul 2026):
+Here are some of FINOS' most active projects (as of 11 Jul 2026):
 
 
 **Special Interest Groups:**
@@ -294,7 +294,7 @@ _Create a space where expertise can be identified and implemented to help the fi
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-266-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-124-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-86-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-267-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-124-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-85-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -1409,7 +1409,7 @@ _Yeoman based generator for Symphony Bots and Applications_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/symphony-media-bridge.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-72-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/SymphonyMediaBridge/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-25-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/SymphonyMediaBridge)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-0-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/SymphonyMediaBridge/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-73-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/SymphonyMediaBridge/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-26-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/SymphonyMediaBridge)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-0-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/SymphonyMediaBridge/issues)
 
 _The Symphony Media Bridge (SMB) is a media server application that handles audio, video and screen sharing media streams in an RTC conference system._
 
