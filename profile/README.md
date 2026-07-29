@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 28 Jul 2026):
+Here are some of FINOS' most active projects (as of 29 Jul 2026):
 
 
 **Special Interest Groups:**
@@ -373,6 +373,7 @@ _An open standard for the financial desktop._
  - [https://github.com/finos/FDC3](https://github.com/finos/FDC3)
  - [https://fdc3.finos.org](https://fdc3.finos.org)
  - [https://github.com/finos/fdc3-dotnet](https://github.com/finos/fdc3-dotnet)
+ - [https://github.com/finos/cucumber-testing-steps](https://github.com/finos/cucumber-testing-steps)
 <a name="Git-Proxy"></a>
 ## Git Proxy
 
@@ -791,7 +792,7 @@ _DesignOps toolchain theme builder for accessibility inclusion using Atomic Desi
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/ai-governance-framework.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-93-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-53-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-55-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-93-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-52-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-55-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/ai-governance-framework/issues)
 
 _Our goal is to mutually develop a governance framework that manages the on-boarding, development of, and running AI-based solutions within financial services organisations - allowing us all to unlock the potential of this disruptive technology in a safe, trustworthy and compliant way._
 
@@ -855,7 +856,7 @@ _FDC3 Desktop Agent Bridge_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-364-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-125-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-106-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-366-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-125-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-103-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
@@ -890,6 +891,8 @@ _"Architecture as Code" (AasC) aims to devise and manage software architecture v
 #### Further Details
  - [https://github.com/finos/architecture-as-code](https://github.com/finos/architecture-as-code)
  - [https://calm.finos.org](https://calm.finos.org)
+ - [https://github.com/finos/calm-schema](https://github.com/finos/calm-schema)
+ - [https://github.com/finos/calm-governance](https://github.com/finos/calm-governance)
 <a name="Common-Cloud-Controls"></a>
 ## Common Cloud Controls
 
@@ -1007,7 +1010,7 @@ _Open implementation of the FDC3 standard_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/finos-code-scanning.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-10-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/code-scanning/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-7-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/code-scanning)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-5-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/code-scanning/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-10-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/code-scanning/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-7-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/code-scanning)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-6-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/code-scanning/issues)
 
 _How to protect FINOS hosted projects from security threats and license compliance issues_
 
@@ -1298,7 +1301,7 @@ _OpenGRIS aims to provide a standard to allow different hardware and compute poo
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/rune.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-48-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-35-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-135-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-48-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-35-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-134-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/rune-dsl/issues)
 
 _The project containing the Rune DSL grammar and default code generators_
 
@@ -1505,7 +1508,7 @@ _TraderX has evolved from a monolithic codebase into a comprehensive Knowledge G
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/vuu.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-57-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-45-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-209-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-57-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-45-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-208-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/vuu/issues)
 
 _Vuu - an open source view server and html 5 based UI system_
 
