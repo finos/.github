@@ -1,6 +1,6 @@
 # FINOS Projects
 
-Here are some of FINOS' most active projects (as of 09 Aug 2026):
+Here are some of FINOS' most active projects (as of 10 Aug 2026):
 
 
 **Special Interest Groups:**
@@ -155,7 +155,7 @@ _FINOS Financial Objects Program Documentation_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/innersource.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-37-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/InnerSource/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-19-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/InnerSource)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-97-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/InnerSource/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-37-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/InnerSource/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-19-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/InnerSource)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-98-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/InnerSource/issues)
 
 _The FINOS InnerSource SIG is a community of people implementing, or interested in implementing, InnerSource within their financial services organization._
 
@@ -295,7 +295,7 @@ _Create a space where expertise can be identified and implemented to help the fi
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/cdm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-273-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-129-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-93-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-273-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-130-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-92-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/common-domain-model/issues)
 
 _The CDM is a model for financial products, trades in those products, and the lifecycle events of those trades. It is an open source standard that aligns data, systems and processes and is available as code in multiple languages for easy implementation across technologies._
 
@@ -332,7 +332,7 @@ _The CDM is a model for financial products, trades in those products, and the li
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fdc3.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-267-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-184-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-92-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-267-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-184-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-88-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/FDC3/issues)
 
 _An open standard for the financial desktop._
 
@@ -379,7 +379,7 @@ _An open standard for the financial desktop._
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/git-proxy.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-237-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-171-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-70-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-237-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-172-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-70-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/git-proxy/issues)
 
 _Deploy custom push protections and policies on top of Git_
 
@@ -856,7 +856,7 @@ _FDC3 Desktop Agent Bridge_
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/calm.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-371-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-127-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-94-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-371-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-127-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-93-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/architecture-as-code/issues)
 
 _"Architecture as Code" (AasC) aims to devise and manage software architecture via a machine readable and version-controlled codebase, fostering a robust understanding, efficient development, and seamless maintenance of complex software architectures_
 
@@ -1060,7 +1060,7 @@ _How to protect FINOS hosted projects from security threats and license complian
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/fluxnova.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-90-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-26-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-66-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-91-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-27-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-68-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/fluxnova-bpm-platform/issues)
 
 
 
@@ -1127,7 +1127,7 @@ _The high throughput compute grid project (HTC-Grid) is a container based cloud 
 
 <img src="https://raw.githubusercontent.com/finos/finos-landscape/master/hosted_logos/finos.svg" width="100px" />
 
-[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-53-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/kdb/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-25-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/kdb)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-6-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/kdb/issues)
+[![GitHub Stars](https://img.shields.io/badge/⭐%20Stars-53-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/kdb/stargazers)[![GitHub Forks](https://img.shields.io/badge/⚡%20Forks-25-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/kdb)[![GitHub Issues](https://img.shields.io/badge/🔎%20Issues-7-grey?labelColor=eaebec&style=for-the-badge) ](https://github.com/finos/kdb/issues)
 
 _kdb+ Working Group from FINOS Data Technologies program_
 
